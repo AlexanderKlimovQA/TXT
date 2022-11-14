@@ -1,0 +1,1 @@
+Skills: Theory, Test-cases, Bug-reports, Postman, SoapUI, Charlees Proxy, Fiddler, SQL, JavaScript, Phyton
